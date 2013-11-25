@@ -1,0 +1,1185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1cddabdb-7a9a-43fb-8530-ac3f5135d3c4" name="Default" comment="" />
+    <ignored path="python2.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/about_asserts.py" changelist="1cddabdb-7a9a-43fb-8530-ac3f5135d3c4" time="1385353109686" ignored="false" />
+    <file path="/about_strings.py" changelist="1cddabdb-7a9a-43fb-8530-ac3f5135d3c4" time="1385353187003" ignored="false" />
+    <file path="/about_none.py" changelist="1cddabdb-7a9a-43fb-8530-ac3f5135d3c4" time="1385353212042" ignored="false" />
+    <file path="/about_lists.py" changelist="1cddabdb-7a9a-43fb-8530-ac3f5135d3c4" time="1385353253409" ignored="false" />
+    <file path="/about_list_assignments.py" changelist="1cddabdb-7a9a-43fb-8530-ac3f5135d3c4" time="1385353322705" ignored="false" />
+    <file path="/about_dictionaries.py" changelist="1cddabdb-7a9a-43fb-8530-ac3f5135d3c4" time="1385353360168" ignored="false" />
+    <file path="/about_string_manipulation.py" changelist="1cddabdb-7a9a-43fb-8530-ac3f5135d3c4" time="1385353385245" ignored="false" />
+    <file path="/about_tuples.py" changelist="1cddabdb-7a9a-43fb-8530-ac3f5135d3c4" time="1385353406090" ignored="false" />
+    <file path="/about_methods.py" changelist="1cddabdb-7a9a-43fb-8530-ac3f5135d3c4" time="1385355930827" ignored="false" />
+    <file path="/about_control_statements.py" changelist="1cddabdb-7a9a-43fb-8530-ac3f5135d3c4" time="1385357228439" ignored="false" />
+    <file path="/about_true_and_false.py" changelist="1cddabdb-7a9a-43fb-8530-ac3f5135d3c4" time="1385357601888" ignored="false" />
+    <file path="/about_sets.py" changelist="1cddabdb-7a9a-43fb-8530-ac3f5135d3c4" time="1385358643759" ignored="false" />
+    <file path="/triangle.py" changelist="1cddabdb-7a9a-43fb-8530-ac3f5135d3c4" time="1385358980329" ignored="false" />
+    <file path="/about_exceptions.py" changelist="1cddabdb-7a9a-43fb-8530-ac3f5135d3c4" time="1385359360156" ignored="false" />
+    <file path="/Dummy.txt" changelist="1cddabdb-7a9a-43fb-8530-ac3f5135d3c4" time="1385361527740" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="python2" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="about_string_manipulation.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/koans/about_string_manipulation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="76" column="8" selection-start="2787" selection-end="2787" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about_tuples.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/koans/about_tuples.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="70" column="8" selection-start="2435" selection-end="2435" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about_methods.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/koans/about_methods.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="164" column="28" selection-start="5448" selection-end="5448" vertical-scroll-proportion="1.2337662">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about_control_statements.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/koans/about_control_statements.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="72" column="36" selection-start="1989" selection-end="1989" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about_true_and_false.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/koans/about_true_and_false.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="38" column="37" selection-start="1420" selection-end="1420" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about_sets.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/koans/about_sets.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="43" column="0" selection-start="1747" selection-end="1747" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about_triangle_project.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/koans/about_triangle_project.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="0" selection-start="449" selection-end="449" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="triangle.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/koans/triangle.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="1" selection-start="207" selection-end="207" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about_exceptions.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/koans/about_exceptions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="67" column="36" selection-start="1841" selection-end="1841" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about_triangle_project2.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/koans/about_triangle_project2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="33" selection-start="306" selection-end="306" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/koans/about_asserts.py" />
+        <option value="$PROJECT_DIR$/koans/about_strings.py" />
+        <option value="$PROJECT_DIR$/koans/about_none.py" />
+        <option value="$PROJECT_DIR$/koans/about_lists.py" />
+        <option value="$PROJECT_DIR$/koans/about_list_assignments.py" />
+        <option value="$PROJECT_DIR$/koans/about_dictionaries.py" />
+        <option value="$PROJECT_DIR$/koans/about_string_manipulation.py" />
+        <option value="$PROJECT_DIR$/koans/about_tuples.py" />
+        <option value="$PROJECT_DIR$/koans/about_methods.py" />
+        <option value="$PROJECT_DIR$/koans/about_control_statements.py" />
+        <option value="$PROJECT_DIR$/koans/about_true_and_false.py" />
+        <option value="$PROJECT_DIR$/koans/about_sets.py" />
+        <option value="$PROJECT_DIR$/koans/about_exceptions.py" />
+        <option value="$PROJECT_DIR$/koans/triangle.py" />
+      </list>
+    </option>
+  </component>
+  <component name="PerforceDirect.Settings">
+    <option name="ENABLED" value="false" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="48" />
+    <option name="y" value="-4" />
+    <option name="width" value="1393" />
+    <option name="height" value="905" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="runner" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="runner" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="runner_tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="koans" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <PyConsoleSettings />
+    </option>
+    <option name="myDjangoConsoleState">
+      <PyConsoleSettings />
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.contemplate_koans">
+    <configuration default="false" name="contemplate_koans" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python2" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/contemplate_koans.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python2" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python2" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.contemplate_koans" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.contemplate_koans" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1cddabdb-7a9a-43fb-8530-ac3f5135d3c4" name="Default" comment="" />
+      <created>1385352804054</created>
+      <updated>1385352804054</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Avance">
+      <created>1385361545792</created>
+      <updated>1385361545804</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="48" y="-4" width="1393" height="905" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19033457" sideWeight="0.672391" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3989432" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32760897" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="false" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" value="Avance" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="Avance" />
+  </component>
+  <component name="VcsOperationLog">
+    <option name="operations">
+      <list>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/libs/mock.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/libs/colorama/ansi.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/libs/colorama/ansi.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/libs/colorama/win32.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/libs/colorama/win32.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/libs/colorama/winterm.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/libs/colorama/__init__.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/libs/colorama/winterm.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/libs/colorama/__init__.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/libs/colorama/initialise.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/libs/colorama/ansitowin32.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/libs/colorama/initialise.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/libs/colorama/ansitowin32.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/libs/colorama/LICENSE-colorama" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/libs/__init__.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/libs/__init__.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.idea/.name" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.idea/vcs.xml" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.idea/misc.xml" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.idea/other.xml" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.idea/modules.xml" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.idea/python2.iml" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.idea/encodings.xml" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/.idea/testrunner.xml" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/jims.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/joes.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/jims.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/joes.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/__init__.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/triangle.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/__init__.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/triangle.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_none.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_sets.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_lists.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_none.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_regex.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_scope.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_sets.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/a_normal_folder/a_module.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_lists.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_regex.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_scope.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_tuples.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/local_module.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/GREEDS_RULES.txt" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/a_package_folder/__init__.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/a_package_folder/a_module.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/a_package_folder/__init__.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/a_package_folder/a_module.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_asserts.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_classes.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_lambdas.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_methods.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_modules.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_strings.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_tuples.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/local_module.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_asserts.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_classes.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_lambdas.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_methods.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_modules.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_packages.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_strings.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_iteration.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_packages.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_exceptions.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_generators.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_iteration.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_exceptions.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_generators.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_inheritance.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_dice_project.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_dictionaries.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_extra_credit.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_inheritance.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_comprehension.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_dice_project.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_dictionaries.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_extra_credit.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_comprehension.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_true_and_false.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/another_local_module.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_method_bindings.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_monkey_patching.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_scoring_project.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_true_and_false.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_with_statements.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/another_local_module.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_attribute_access.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_class_attributes.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_deleting_objects.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_list_assignments.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_method_bindings.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_monkey_patching.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_scoring_project.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_triangle_project.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_with_statements.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_attribute_access.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_class_attributes.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_deleting_objects.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_list_assignments.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_new_style_classes.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_triangle_project.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_triangle_project2.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_control_statements.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_new_style_classes.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_triangle_project2.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_control_statements.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_string_manipulation.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_multiple_inheritance.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_proxy_object_project.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_string_manipulation.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_multiple_inheritance.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_proxy_object_project.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_decorating_with_classes.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/local_module_with_all_defined.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_decorating_with_classes.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/local_module_with_all_defined.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_decorating_with_functions.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/koans/about_decorating_with_functions.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/run.sh" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/runner/koan.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/runner/koan.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/runner/helper.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/runner/sensei.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/runner/helper.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/runner/sensei.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/runner/__init__.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/runner/mountain.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/runner/__init__.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/runner/mountain.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/runner/runner_tests/__init__.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/runner/runner_tests/test_helper.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/runner/runner_tests/test_sensei.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/runner/runner_tests/test_mountain.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/runner/writeln_decorator.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/runner/writeln_decorator.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/runner/mockable_test_result.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/runner/mockable_test_result.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/runner/path_to_enlightenment.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/runner/path_to_enlightenment.pyc" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/run.bat" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/_runner_tests.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/example_file.txt" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/contemplate_koans.py" />
+        </P4AddOperation>
+        <P4AddOperation>
+          <option name="changeList" value="Default" />
+          <option name="path" value="$PROJECT_DIR$/contemplate_koans.pyc" />
+        </P4AddOperation>
+      </list>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/koans/about_asserts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="4" selection-start="105" selection-end="105" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koans/about_strings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="95" column="8" selection-start="3196" selection-end="3196" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koans/about_none.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="8" selection-start="1629" selection-end="1633" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koans/about_lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="120" selection-end="144" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koans/about_list_assignments.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="8" selection-start="952" selection-end="952" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koans/about_dictionaries.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="8" selection-start="2094" selection-end="2102" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koans/about_string_manipulation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="76" column="8" selection-start="2787" selection-end="2787" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koans/about_tuples.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="70" column="8" selection-start="2435" selection-end="2435" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koans/about_control_statements.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="72" column="36" selection-start="1989" selection-end="1989" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koans/about_true_and_false.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="37" selection-start="1420" selection-end="1420" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koans/about_exceptions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="36" selection-start="1841" selection-end="1841" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koans/about_triangle_project2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="33" selection-start="306" selection-end="306" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koans/about_sets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="0" selection-start="1747" selection-end="1747" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koans/about_triangle_project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="449" selection-end="449" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koans/triangle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="1" selection-start="207" selection-end="207" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koans/about_methods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="164" column="28" selection-start="5448" selection-end="5448" vertical-scroll-proportion="1.2337662">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
