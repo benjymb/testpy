@@ -10,7 +10,6 @@ class AboutSets(Koan):
             'MacLeod', 'Malcolm', 'MacLeod']
 
         there_can_only_be_only_one = set(highlanders)
-        print there_can_only_be_only_one
         self.assertEqual(set(['Malcolm', 'Matunas', 'MacLeod', 'Ramirez']), there_can_only_be_only_one)
 
     def test_sets_are_unordered(self):
