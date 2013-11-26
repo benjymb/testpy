@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1cddabdb-7a9a-43fb-8530-ac3f5135d3c4" name="Default" comment="Avance">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_classes.py" afterPath="$PROJECT_DIR$/koans/about_classes.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_comprehension.py" afterPath="$PROJECT_DIR$/koans/about_comprehension.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_generators.py" afterPath="$PROJECT_DIR$/koans/about_generators.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_iteration.py" afterPath="$PROJECT_DIR$/koans/about_iteration.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_lambdas.py" afterPath="$PROJECT_DIR$/koans/about_lambdas.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_scoring_project.py" afterPath="$PROJECT_DIR$/koans/about_scoring_project.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/triangle.py" afterPath="$PROJECT_DIR$/koans/triangle.py" />
+    <list default="true" id="1cddabdb-7a9a-43fb-8530-ac3f5135d3c4" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="python2.iws" />
@@ -27,7 +20,7 @@
     <file path="/about_sets.py" changelist="1cddabdb-7a9a-43fb-8530-ac3f5135d3c4" time="1385358643759" ignored="false" />
     <file path="/triangle.py" changelist="1cddabdb-7a9a-43fb-8530-ac3f5135d3c4" time="1385421713619" ignored="false" />
     <file path="/about_exceptions.py" changelist="1cddabdb-7a9a-43fb-8530-ac3f5135d3c4" time="1385359360156" ignored="false" />
-    <file path="/Dummy.txt" changelist="1cddabdb-7a9a-43fb-8530-ac3f5135d3c4" time="1385421347325" ignored="false" />
+    <file path="/Dummy.txt" changelist="1cddabdb-7a9a-43fb-8530-ac3f5135d3c4" time="1385429630645" ignored="false" />
     <file path="/a.dummy" changelist="1cddabdb-7a9a-43fb-8530-ac3f5135d3c4" time="1385392933985" ignored="false" />
     <file path="/about_iteration.py" changelist="1cddabdb-7a9a-43fb-8530-ac3f5135d3c4" time="1385424032707" ignored="false" />
     <file path="/about_comprehension.py" changelist="1cddabdb-7a9a-43fb-8530-ac3f5135d3c4" time="1385424534861" ignored="false" />
@@ -138,7 +131,7 @@
       <file leaf-file-name="about_new_style_classes.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/koans/about_new_style_classes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="13" selection-start="88" selection-end="88" vertical-scroll-proportion="0.042666666">
+            <state line="6" column="13" selection-start="88" selection-end="88" vertical-scroll-proportion="0.042895444">
               <folding />
             </state>
           </provider>
@@ -437,28 +430,32 @@
       <created>1385361545792</created>
       <updated>1385361545804</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Avanzar hasta HerenciaMultiple">
+      <created>1385429650349</created>
+      <updated>1385429650349</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="49" y="24" width="1317" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19118804" sideWeight="0.67304623" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19118804" sideWeight="0.672" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39829606" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32695374" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.328" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32694355" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290735" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -506,7 +503,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Avance" />
+    <option name="LAST_COMMIT_MESSAGE" value="Avanzar hasta HerenciaMultiple" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -521,6 +518,7 @@
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="Avance" />
+    <MESSAGE value="Avanzar hasta HerenciaMultiple" />
   </component>
   <component name="VcsOperationLog">
     <option name="operations">
@@ -1236,7 +1234,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/koans/about_new_style_classes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="13" selection-start="88" selection-end="88" vertical-scroll-proportion="0.042666666">
+        <state line="6" column="13" selection-start="88" selection-end="88" vertical-scroll-proportion="0.042895444">
           <folding />
         </state>
       </provider>
