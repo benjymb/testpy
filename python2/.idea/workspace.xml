@@ -2,18 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1cddabdb-7a9a-43fb-8530-ac3f5135d3c4" name="Default" comment="Avance">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_asserts.py" afterPath="$PROJECT_DIR$/koans/about_asserts.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_dictionaries.py" afterPath="$PROJECT_DIR$/koans/about_dictionaries.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_list_assignments.py" afterPath="$PROJECT_DIR$/koans/about_list_assignments.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_lists.py" afterPath="$PROJECT_DIR$/koans/about_lists.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_none.py" afterPath="$PROJECT_DIR$/koans/about_none.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_sets.py" afterPath="$PROJECT_DIR$/koans/about_sets.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_string_manipulation.py" afterPath="$PROJECT_DIR$/koans/about_string_manipulation.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_strings.py" afterPath="$PROJECT_DIR$/koans/about_strings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_tuples.py" afterPath="$PROJECT_DIR$/koans/about_tuples.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/python2.iml" afterPath="$PROJECT_DIR$/.idea/python2.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_classes.py" afterPath="$PROJECT_DIR$/koans/about_classes.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_comprehension.py" afterPath="$PROJECT_DIR$/koans/about_comprehension.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_generators.py" afterPath="$PROJECT_DIR$/koans/about_generators.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_iteration.py" afterPath="$PROJECT_DIR$/koans/about_iteration.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_lambdas.py" afterPath="$PROJECT_DIR$/koans/about_lambdas.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_scoring_project.py" afterPath="$PROJECT_DIR$/koans/about_scoring_project.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/triangle.py" afterPath="$PROJECT_DIR$/koans/triangle.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="python2.iws" />
@@ -30,10 +25,16 @@
     <file path="/about_control_statements.py" changelist="1cddabdb-7a9a-43fb-8530-ac3f5135d3c4" time="1385357228439" ignored="false" />
     <file path="/about_true_and_false.py" changelist="1cddabdb-7a9a-43fb-8530-ac3f5135d3c4" time="1385357601888" ignored="false" />
     <file path="/about_sets.py" changelist="1cddabdb-7a9a-43fb-8530-ac3f5135d3c4" time="1385358643759" ignored="false" />
-    <file path="/triangle.py" changelist="1cddabdb-7a9a-43fb-8530-ac3f5135d3c4" time="1385393800443" ignored="false" />
+    <file path="/triangle.py" changelist="1cddabdb-7a9a-43fb-8530-ac3f5135d3c4" time="1385421713619" ignored="false" />
     <file path="/about_exceptions.py" changelist="1cddabdb-7a9a-43fb-8530-ac3f5135d3c4" time="1385359360156" ignored="false" />
-    <file path="/Dummy.txt" changelist="1cddabdb-7a9a-43fb-8530-ac3f5135d3c4" time="1385393378938" ignored="false" />
+    <file path="/Dummy.txt" changelist="1cddabdb-7a9a-43fb-8530-ac3f5135d3c4" time="1385421347325" ignored="false" />
     <file path="/a.dummy" changelist="1cddabdb-7a9a-43fb-8530-ac3f5135d3c4" time="1385392933985" ignored="false" />
+    <file path="/about_iteration.py" changelist="1cddabdb-7a9a-43fb-8530-ac3f5135d3c4" time="1385424032707" ignored="false" />
+    <file path="/about_comprehension.py" changelist="1cddabdb-7a9a-43fb-8530-ac3f5135d3c4" time="1385424534861" ignored="false" />
+    <file path="/about_generators.py" changelist="1cddabdb-7a9a-43fb-8530-ac3f5135d3c4" time="1385425927517" ignored="false" />
+    <file path="/about_lambdas.py" changelist="1cddabdb-7a9a-43fb-8530-ac3f5135d3c4" time="1385426096286" ignored="false" />
+    <file path="/about_scoring_project.py" changelist="1cddabdb-7a9a-43fb-8530-ac3f5135d3c4" time="1385427699482" ignored="false" />
+    <file path="/about_classes.py" changelist="1cddabdb-7a9a-43fb-8530-ac3f5135d3c4" time="1385429219671" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,24 +54,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="about_tuples.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/koans/about_tuples.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="0" selection-start="899" selection-end="899" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about_methods.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/koans/about_methods.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="135" column="0" selection-start="4459" selection-end="4484" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="about_attribute_access.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/koans/about_attribute_access.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -80,37 +63,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about_lists.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="about_lists.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/koans/about_lists.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="120" selection-end="144" vertical-scroll-proportion="-0.79452056">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about_true_and_false.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/koans/about_true_and_false.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="37" selection-start="1420" selection-end="1420" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about_sets.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/koans/about_sets.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="60" selection-start="1028" selection-end="1028" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about_triangle_project.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/koans/about_triangle_project.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="0" selection-start="449" selection-end="449" vertical-scroll-proportion="0.0">
+            <state line="9" column="0" selection-start="120" selection-end="144" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -119,25 +75,70 @@
       <file leaf-file-name="triangle.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/koans/triangle.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="9" selection-start="651" selection-end="651" vertical-scroll-proportion="0.0">
+            <state line="21" column="34" selection-start="566" selection-end="566" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about_exceptions.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/koans/about_exceptions.py">
+      <file leaf-file-name="about_iteration.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/koans/about_iteration.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="67" column="36" selection-start="1841" selection-end="1841" vertical-scroll-proportion="0.0">
+            <state line="107" column="58" selection-start="3024" selection-end="3024" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about_triangle_project2.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/koans/about_triangle_project2.py">
+      <file leaf-file-name="about_comprehension.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/koans/about_comprehension.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="0" selection-start="518" selection-end="518" vertical-scroll-proportion="0.0">
+            <state line="60" column="26" selection-start="2278" selection-end="2278" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about_generators.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/koans/about_generators.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="140" column="34" selection-start="4477" selection-end="4477" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about_lambdas.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/koans/about_lambdas.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="37" selection-start="826" selection-end="826" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about_scoring_project.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/koans/about_scoring_project.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="42" column="24" selection-start="1046" selection-end="1046" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about_classes.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/koans/about_classes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="159" column="35" selection-start="4824" selection-end="4824" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about_new_style_classes.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/koans/about_new_style_classes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="13" selection-start="88" selection-end="88" vertical-scroll-proportion="0.042666666">
               <folding />
             </state>
           </provider>
@@ -161,10 +162,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/koans/about_asserts.py" />
-        <option value="$PROJECT_DIR$/koans/about_strings.py" />
-        <option value="$PROJECT_DIR$/koans/about_none.py" />
-        <option value="$PROJECT_DIR$/koans/about_lists.py" />
         <option value="$PROJECT_DIR$/koans/about_list_assignments.py" />
         <option value="$PROJECT_DIR$/koans/about_dictionaries.py" />
         <option value="$PROJECT_DIR$/koans/about_string_manipulation.py" />
@@ -173,8 +170,14 @@
         <option value="$PROJECT_DIR$/koans/about_exceptions.py" />
         <option value="$PROJECT_DIR$/koans/about_sets.py" />
         <option value="$PROJECT_DIR$/koans/about_tuples.py" />
-        <option value="$PROJECT_DIR$/koans/triangle.py" />
         <option value="$PROJECT_DIR$/koans/about_methods.py" />
+        <option value="$PROJECT_DIR$/koans/triangle.py" />
+        <option value="$PROJECT_DIR$/koans/about_iteration.py" />
+        <option value="$PROJECT_DIR$/koans/about_comprehension.py" />
+        <option value="$PROJECT_DIR$/koans/about_generators.py" />
+        <option value="$PROJECT_DIR$/koans/about_lambdas.py" />
+        <option value="$PROJECT_DIR$/koans/about_scoring_project.py" />
+        <option value="$PROJECT_DIR$/koans/about_classes.py" />
       </list>
     </option>
   </component>
@@ -184,8 +187,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="49" />
     <option name="y" value="24" />
-    <option name="width" value="1871" />
-    <option name="height" value="1056" />
+    <option name="width" value="1317" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -229,7 +232,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -296,16 +298,17 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="Errors" />
     <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="Errors" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -438,23 +441,23 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="49" y="24" width="1871" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="49" y="24" width="1317" height="744" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290735" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19232877" sideWeight="0.67199147" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19118804" sideWeight="0.67304623" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39829606" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32800853" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32695374" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32694355" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290735" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -1125,51 +1128,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/koans/about_list_assignments.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="8" selection-start="952" selection-end="952" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/koans/about_dictionaries.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="8" selection-start="2094" selection-end="2102" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/koans/about_string_manipulation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="76" column="8" selection-start="2787" selection-end="2787" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/koans/about_control_statements.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="72" column="36" selection-start="1989" selection-end="1989" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/koans/about_true_and_false.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="37" selection-start="1420" selection-end="1420" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/koans/about_exceptions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="36" selection-start="1841" selection-end="1841" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/koans/about_triangle_project.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="449" selection-end="449" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/contemplate_koans.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="24" column="12" selection-start="725" selection-end="725" vertical-scroll-proportion="0.47945204">
@@ -1191,21 +1149,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/koans/triangle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="9" selection-start="651" selection-end="651" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/koans/GREEDS_RULES.txt">
       <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/koans/about_tuples.py">
@@ -1231,7 +1180,63 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/koans/about_lists.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="120" selection-end="144" vertical-scroll-proportion="-0.79452056">
+        <state line="9" column="0" selection-start="120" selection-end="144" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koans/triangle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="34" selection-start="566" selection-end="566" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koans/about_iteration.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="107" column="58" selection-start="3024" selection-end="3024" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koans/about_comprehension.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="26" selection-start="2278" selection-end="2278" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koans/about_generators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="140" column="34" selection-start="4477" selection-end="4477" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koans/about_lambdas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="37" selection-start="826" selection-end="826" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koans/about_scoring_project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="24" selection-start="1046" selection-end="1046" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koans/about_classes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="159" column="35" selection-start="4824" selection-end="4824" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koans/about_new_style_classes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="13" selection-start="88" selection-end="88" vertical-scroll-proportion="0.042666666">
           <folding />
         </state>
       </provider>

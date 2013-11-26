@@ -22,12 +22,15 @@ def triangle(a, b, c):
     if a <= 0 or b <= 0 or c <= 0:
         raise TriangleError, 'La longitud de los lados debe ser mayor a 0'
     else:
-        if a is not b and b is not c and c is not a:
-            return 'scalene'
-        elif a is b and b is c:
-            return 'equilateral'
+        if a >= (b+c) or b >= (a+c) or c >= (a+b):
+            raise TriangleError
         else:
-            return 'isosceles'
+            if a is not b and b is not c and c is not a:
+                return 'scalene'
+            elif a is b and b is c:
+                return 'equilateral'
+            else:
+                return 'isosceles'
 
 # Error class used in part 2.  No need to change this code.
 class TriangleError(StandardError):
